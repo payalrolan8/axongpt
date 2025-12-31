@@ -36,8 +36,6 @@ AxonGPT/
 ├── backend/    # Node.js + Express backend
 └── README.md
 
-````
-
 ---
 
 ## 🔐 Environment Variables
@@ -80,6 +78,7 @@ npm run dev
 ```
 
 Frontend runs on a **different local port** (shown in the terminal by Vite).
+
 
 ---
 
