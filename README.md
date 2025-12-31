@@ -101,5 +101,4 @@ Frontend runs on a **different local port** (shown in the terminal by Vite).
 ## ✨ Author
 
 **Payal**
-Built as a portfolio project 🚀
 
