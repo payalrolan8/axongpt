@@ -96,6 +96,5 @@ npm run dev
 *  User model
 
 ## ✨ Author
-
-    **Payal**
+**Payal**
 
