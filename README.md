@@ -97,5 +97,5 @@ npm run dev
 
 ## ✨ Author
 
-**    Payal**
+   **Payal**
 
