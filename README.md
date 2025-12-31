@@ -95,15 +95,6 @@ Frontend runs on a **different local port** (shown in the terminal by Vite).
 
 ---
 
-## 🖼️ Screenshots
-
-*Add screenshots of the application UI here*
-
-```
-/screenshots
-- chat-ui.png
-- response-example.png
-```
 
 ---
 
@@ -111,12 +102,8 @@ Frontend runs on a **different local port** (shown in the terminal by Vite).
 
 *  User model
 
-
-
 ## ✨ Author
 
 **Payal**
 Built as a portfolio project 🚀
-
-```
 
